@@ -31,8 +31,9 @@ Figure 3: Guess is too high
 
  <img width="750" height="750" alt="Screenshot 2025-08-11 182506" src="https://github.com/user-attachments/assets/2d243b2f-d4b8-4741-b95e-60dcacb7b30b" />
 Figure 4: Correct Guess
-Figure 5: Play Again has been Chosen
+
  <img width="750" height="750" alt="Screenshot 2025-08-11 182536" src="https://github.com/user-attachments/assets/da79dce1-4740-40aa-8429-0fcfb0b3f190" />
+Figure 5: Play Again has been Chosen 
 
 
 
